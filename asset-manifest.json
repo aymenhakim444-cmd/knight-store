@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/knight-store/static/css/main.0164c13e.css",
+    "main.js": "/knight-store/static/js/main.0e77c793.js",
+    "static/js/453.9e83698b.chunk.js": "/knight-store/static/js/453.9e83698b.chunk.js",
+    "static/media/Sneakers.png": "/knight-store/static/media/Sneakers.26d1dc0d6e632a32cafd.png",
+    "static/media/Pemium Headphones.png": "/knight-store/static/media/Pemium Headphones.59ce9cbe1a09ddb1583a.png",
+    "static/media/SmartWatch.png": "/knight-store/static/media/SmartWatch.7e63e3fe68990729e92c.png",
+    "index.html": "/knight-store/index.html",
+    "main.0164c13e.css.map": "/knight-store/static/css/main.0164c13e.css.map",
+    "main.0e77c793.js.map": "/knight-store/static/js/main.0e77c793.js.map",
+    "453.9e83698b.chunk.js.map": "/knight-store/static/js/453.9e83698b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0164c13e.css",
+    "static/js/main.0e77c793.js"
+  ]
+}
