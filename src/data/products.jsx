@@ -12,13 +12,13 @@ export const products = [
     name: "Smart Watch", 
     category: "Electronics", 
     price: 180, 
-    image: Sneakers, 
+    image: SmartWatch, 
     description: "Track your fitness and notifications." },
 
   { id: 3, 
     name: "Sneakers", 
     category: "Fashion", 
     price: 90, 
-    image: SmartWatch, 
+    image: Sneakers, 
     description: "Stylish everyday sneakers." }
 ];
